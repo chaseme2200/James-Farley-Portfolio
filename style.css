@@ -370,6 +370,14 @@ article .icon {
     cursor: default;
 }
 
+.edr h3, p {
+    margin-right: 25px;
+}
+
+.ids h3, p {
+    margin-right: 20px;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
